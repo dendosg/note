@@ -34,7 +34,11 @@
     {% else %}
       <meta content="{{ '/assets/img/default.jpg' | prepend: site.url }}" property="og:image">
     {% endif %}
-
+    
+    {% if page.fbappid %}
+    <meta property="fb:app_id" content="{{site.fbappid}}" />
+    {% endif %}
+    
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.social.twitter }}">
@@ -57,7 +61,7 @@
     {% else %}
       <meta name="twitter:image:src" content="{{ '/assets/img/default.jpg' | prepend: site.url }}">
     {% endif %}
-
+    
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico" | prepend: site.baseurl }}" />
