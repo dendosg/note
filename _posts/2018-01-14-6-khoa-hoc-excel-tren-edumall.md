@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6 khóa excel"
+title:  "6 khóa học về Excel trên Edumall"
 date:   2018-01-14
 ---
 
