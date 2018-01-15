@@ -2,6 +2,7 @@
 layout: post
 title:  "6 khóa học về Excel trên Edumall"
 date:   2018-01-14
+image: https://ecom-ftu.net/wp-content/uploads/2017/05/cong-cu-excel.png
 ---
 
 Link download 6 khóa học về Excel trên Edumall
