@@ -54,7 +54,7 @@ Link download 6 khóa học về Excel trên Edumall
 6, Excel ứng dụng cho kế toán
 -----------------------------
 
-\[youtube https://www.youtube.com/watch?v=cEEG8mlxYsk&w=560&h=315\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cEEG8mlxYsk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *   Link khóa học: [http://edumall.vn/course/excel-ung-dung-cho-ke-toan](http://edumall.vn/course/excel-ung-dung-cho-ke-toan)
 *   Giá: 599k
