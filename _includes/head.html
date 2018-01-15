@@ -34,10 +34,8 @@
     {% else %}
       <meta content="{{ '/assets/img/default.jpg' | prepend: site.url }}" property="og:image">
     {% endif %}
-    
-    {% if page.fbappid %}
+
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
-    {% endif %}
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary">
