@@ -1,10 +1,10 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Đèn Đỏ
+description: Ghi chú của Đèn Đỏ
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
 paginate_path: "page/:num"
-permalink: blog/:title/
+permalink: /:title
 
 markdown: kramdown
 highlighter: rouge
