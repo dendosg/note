@@ -16,7 +16,7 @@ layout: default
   <div class="postNav clearfix"> 
     
     	{% if page.previous.url %} 
-      <a class="next image" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+      <a class="next image" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&nbsp;&raquo;{{ page.previous.title }}</span>
       {% if page.previous.image %} 
         <img src="{{ page.previous.image }}" alt="">
       {% else %}
@@ -26,7 +26,7 @@ layout: default
     {% endif %}
     
     {% if page.next.url %}  
-      <a class="prev image" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+      <a class="prev image" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&laquo;&nbsp;</span>
       {% if page.next.image %} 
         <img src="{{ page.next.image }}" alt="">
       {% else %}
