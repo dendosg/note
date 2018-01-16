@@ -25,7 +25,7 @@ layout: default
       <a class="next image" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
       {% if page.next.image %} 
         <img src="{{ page.next.image }}" alt="">
-      {% elseif %}
+      {% else %}
         <img src="http://ghichu.ngaoduky.com/assets/img/default.jpg" alt="">
       {% endif %} 
       </a>
