@@ -7,14 +7,14 @@ image: 'https://dendosg.github.io/assets/img/upload/2017/02/featured-binh-thuan.
 tags: [Kê Gà,Mũi Né,Phan Thiết,Bàu Trắng,Suối Tiên]
 ---
 
-Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.
+
 
 ![](https://dendosg.github.io/assets/img/upload/2017/02/f-binh-thuan.jpg)
 
 Đi đâu khi tới Bình Thuận?
 ==========================
 
-Mình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.
+<p class="intro"><span class="dropcap">M</span>ình xin chia sẻ 1 vài địa điểm và lịch trình tham khảo dưới đây, hy vọng giúp ích được nhiều người. Ở Sài Gòn mà dành cuối tuần để đi bụi Bình Thuận là hợp lý lắm đó.</p>
 
 1, Hải đăng Kê Gà
 -----------------
