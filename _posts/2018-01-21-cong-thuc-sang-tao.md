@@ -4,10 +4,9 @@ title: 'CÔNG THỨC SÁNG TẠO'
 categories: [Kinh Nghiệm]
 author: 'Đèn Đỏ'
 image: 'https://i.imgur.com/LnduF1N.jpg'
-description: Rất nhiều lần, tui được mọi người khen ngợi về Hoa Sơn Tửu Lầu. Dạng đại để như: Ý tưởng hay quá, sao em có thể nghĩ ra được vậy? Mô hình độc đáo quá, em từ đâu có ý tưởng này?
-Chung quy là đều đánh giá cao ý tưởng của tui về HSTL. Vậy nên tui xin được chia sẻ cho mấy anh em công thức chung để tạo ra sản phẩm hoặc ý tưởng giống như thế này.
+description: Rất nhiều lần, tui được mọi người khen ngợi về Hoa Sơn Tửu Lầu.
 ---
-[CÔNG THỨC SÁNG TẠO]
+CÔNG THỨC SÁNG TẠO
 Rất nhiều lần, tui được mọi người khen ngợi về Hoa Sơn Tửu Lầu. Dạng đại để như:
  Ý tưởng hay quá, sao em có thể nghĩ ra được vậy?
  Mô hình độc đáo quá, em từ đâu có ý tưởng này?
