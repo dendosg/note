@@ -3,7 +3,7 @@ layout: post
 title: 'CHO 4 NĂM KHỞI NGHIỆP - Mô hình vs Sản Phẩm'
 categories: [Kinh Nghiệm]
 author: 'Đèn Đỏ'
-image: 'httpshttps://i.imgur.com/v3yvOoo.jpg'
+image: 'https://i.imgur.com/v3yvOoo.jpg'
 description: Sự thật là tui khởi nghiệp cũng được 4 năm rồi, giờ cuối năm nhìn lại thấy 4 năm nhanh như mới hôm qua. Tui nhận ra là tui đã sai quá nhiều nên quyết định viết ra đây, một là để bản thân ghi nhớ, hai là để mọi người có thể rút kinh nghiệm và né sai lầm như tui.
 ---
 
