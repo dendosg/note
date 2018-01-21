@@ -4,17 +4,15 @@ title: 'START-UP SẼ KHÔNG CHẾT NẾU BIẾT ĐIỀU NÀY'
 categories: [Kinh Nghiệm]
 author: 'Đèn Đỏ'
 image: 'https://i.imgur.com/pHV3wdo.jpg'
-description: Tối qua ngồi tâm tình với đồng sự của mình, anh kể tôi nghe về những lần anh cũng đã khởi nghiệp nhưng thất bại, rồi lại buông nhẹ câu...
-
-Vậy nên mình xin viết bài này góp chút động lực cho những bạn nào đang hay có ý định sẽ khởi nghiệp.
+description: Tối qua ngồi tâm tình với đồng sự của mình, anh kể tôi nghe về những lần anh cũng đã khởi nghiệp nhưng thất bại, rồi lại buông nhẹ câu. Vậy nên mình xin viết bài này góp chút động lực cho những bạn nào đang hay có ý định sẽ khởi nghiệp.
 ---
-[START-UP SẼ KHÔNG CHẾT NẾU BIẾT ĐIỀU NÀY]
+START-UP SẼ KHÔNG CHẾT NẾU BIẾT ĐIỀU NÀY
 
 Tối qua ngồi tâm tình với đồng sự của mình, anh kể tôi nghe về những lần anh cũng đã khởi nghiệp nhưng thất bại, rồi lại buông nhẹ câu:
 "Phải mà em gặp anh sớm hơn..."
 
 Vậy nên mình xin viết bài này góp chút động lực cho những bạn nào đang hay có ý định sẽ khởi nghiệp.
----------------
+
 Khởi nghiệp muốn tồn tại, chưa nói đến phát triển, cần có 3 yếu tố then chốt, thiếu 1 trong 3 yếu tố này 99,69% coi như thất bại:
 
 1. Sản phẩm tốt:
@@ -68,7 +66,7 @@ Rồi hàng đống câu hỏi về tiền nữa.
 Chưa kể có nhiều trường hợp bán được hàng nhưng tiền lại không về tay, khách hàng nợ. Không quản trị được cái này thì cũng thăng sớm.
 
 => Nên nhớ mục tiêu của Start-up vẫn là kiếm tiền, vậy nên đừng bao giờ bỏ quên vị trí quan trọng này. Đây là người giữ tiền của các bạn.
------------
+
 3 yếu tố này thiếu 1 cũng không được. Vậy nên nếu làm start-up, hãy chuẩn bị con người cho 3 vị trí này, đây là vị trí cốt lõi, thành hay bại phụ thuộc vào những người này.
 
 Chúc các bạn may mắn!
