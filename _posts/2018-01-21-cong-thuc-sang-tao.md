@@ -9,8 +9,8 @@ Chung quy là đều đánh giá cao ý tưởng của tui về HSTL. Vậy nên
 ---
 [CÔNG THỨC SÁNG TẠO]
 Rất nhiều lần, tui được mọi người khen ngợi về Hoa Sơn Tửu Lầu. Dạng đại để như:
-- Ý tưởng hay quá, sao em có thể nghĩ ra được vậy?
-- Mô hình độc đáo quá, em từ đâu có ý tưởng này?
+ Ý tưởng hay quá, sao em có thể nghĩ ra được vậy?
+ Mô hình độc đáo quá, em từ đâu có ý tưởng này?
 Chung quy là đều đánh giá cao ý tưởng của tui về HSTL. Vậy nên tui xin được chia sẻ cho mấy anh em công thức chung để tạo ra sản phẩm hoặc ý tưởng giống như thế này.
 
 Công thức này là công thức chung, có thể áp dụng cho nhiều ngành nghề, tùy vào kiến thức và kỹ năng ngành của mỗi người mà võ công và mức biến hóa của nó khác nhau. Làm không được thì chỉ do mấy anh em thôi chứ công thức của tui #mặc_định_là_đúng =))))
@@ -26,7 +26,7 @@ Kiếm hiệp thì sao?
 Những cái này phải liệt kê ra hết, và lập thành 1 cái list những thứ phải làm để tạo ra sản phẩm cuối cùng.
 
 Sau đó chúng ta phải tiếp tục hỏi sâu thêm 1 lớp nữa.
-Ví dụ: Âm thanh giống trong phim thì sao? -> thì nó phải là nhạc không lời, là sáo trúc và đàn tranh là chủ đạo. -> Vậy có thể kiếm nó ở đâu hoặc tạo ra nó như thế nào?
+Ví dụ: Âm thanh giống trong phim thì sao?  thì nó phải là nhạc không lời, là sáo trúc và đàn tranh là chủ đạo. -> Vậy có thể kiếm nó ở đâu hoặc tạo ra nó như thế nào?
 
 Cứ như thế chúng ta sẽ vẽ được thiết kế cơ bản nhất của sản phẩm và theo cái list đó chúng ta sẽ tạo ra được một sản phẩm mới.
 
