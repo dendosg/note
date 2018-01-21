@@ -22,7 +22,7 @@ HSTL là sự kết hợp giữa quán ăn và kiếm hiệp. Nghe có vẻ khô
 Từ ý tưởng đi đến triển khai thực tế, bạn cần phải tự trả lời những câu hỏi sau, mà quan trọng nhất là câu "....thì sao?"
 Ví dụ cách tui thiết kế HSTL như sau:
 Kiếm hiệp thì sao?
--> Thì phải giống trong phim, nghĩa là sao? -> Ăn mặc giống trong phim nè, xưng hô giống trong phim nè, âm thanh giống trong phim nè, đồ vật giống trong phim nè,v.v...
+ Thì phải giống trong phim, nghĩa là sao? -> Ăn mặc giống trong phim nè, xưng hô giống trong phim nè, âm thanh giống trong phim nè, đồ vật giống trong phim nè,v.v...
 Những cái này phải liệt kê ra hết, và lập thành 1 cái list những thứ phải làm để tạo ra sản phẩm cuối cùng.
 
 Sau đó chúng ta phải tiếp tục hỏi sâu thêm 1 lớp nữa.
@@ -36,9 +36,9 @@ Một lưu ý là, để sản phẩm thiết kế ra được đón nhận, t�
 
 Ví dụ: Tui nhắm vào đối tượng giới trẻ sống tại Tp.HCM độ tuổi từ 22-28, thế thì mô hình tui kinh doanh sẽ là beerclub và thứ tui kết hợp sẽ là cái gì khác, mà nhóm này thích. Chắc là không phải kiếm hiệp rồi.
 Có thể là những bộ phim, series phim nào họ yêu thích. Như Game of Throne chẳng hạn.
--> Beerclub theo phong cách hiệp sĩ phương Tây cũ.
+ Beerclub theo phong cách hiệp sĩ phương Tây cũ.
 Hoặc có thể là Cướp biển
--> Beerclub theo phong cách cướp biển.
+ Beerclub theo phong cách cướp biển.
 
 Tiếp theo sau khi có sản phẩm độc đáo rồi, thì nghĩ thêm về mô hình kinh doanh. Bạn nào chưa đọc có thể đọc tại đây (https://goo.gl/LQY4cF )
 Sản phẩm độc đáo chỉ mới là 50% cho sự thành công thôi, còn để đột phá bắt buộc bạn phải nắm vững về mô hình kinh doanh mới được.
