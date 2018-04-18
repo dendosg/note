@@ -7,922 +7,1298 @@ image: ''
 description: Bảng danh sách 91 động từ bất quy tắc thường dùng nhất và thường gặp nhất
 ---
 
- 
+ <table>
 
-**Nguyên mẫu**
+<tbody>
 
-**Quá khứ đơn**
+<tr>
 
-**Quá khứ phân từ**
+<td> </td>
 
-**Ý nghĩa thường gặp nhất**
+<td>**Nguyên mẫu**</td>
 
-1
+<td>**Quá khứ đơn**</td>
 
-awake
+<td>**Quá khứ phân từ**</td>
 
-awoke
+<td>**Ý nghĩa thường gặp nhất**</td>
 
-awoken
+</tr>
 
-tỉnh táo
+<tr>
 
-2
+<td>1</td>
 
-be
+<td>awake</td>
 
-was, were
+<td>awoke</td>
 
-been
+<td>awoken</td>
 
-được
+<td>tỉnh táo</td>
 
-3
+</tr>
 
-beat
+<tr>
 
-beat
+<td>2</td>
 
-beaten
+<td>be</td>
 
-đánh bại
+<td>was, were</td>
 
-4
+<td>been</td>
 
-become
+<td>được</td>
 
-became
+</tr>
 
-become
+<tr>
 
-trở thành
+<td>3</td>
 
-5
+<td>beat</td>
 
-begin
+<td>beat</td>
 
-began
+<td>beaten</td>
 
-begun
+<td>đánh bại</td>
 
-bắt đầu
+</tr>
 
-6
+<tr>
 
-bend
+<td>4</td>
 
-bent
+<td>become</td>
 
-bent
+<td>became</td>
 
-uốn cong
+<td>become</td>
 
-7
+<td>trở thành</td>
 
-bet
+</tr>
 
-bet
+<tr>
 
-bet
+<td>5</td>
 
-đặt cược
+<td>begin</td>
 
-8
+<td>began</td>
 
-bid
+<td>begun</td>
 
-bid
+<td>bắt đầu</td>
 
-bid
+</tr>
 
-thầu
+<tr>
 
-9
+<td>6</td>
 
-bite
+<td>bend</td>
 
-bit
+<td>bent</td>
 
-bitten
+<td>bent</td>
 
-cắn
+<td>uốn cong</td>
 
-10
+</tr>
 
-blow
+<tr>
 
-blew
+<td>7</td>
 
-blown
+<td>bet</td>
 
-đòn
+<td>bet</td>
 
-11
+<td>bet</td>
 
-break
+<td>đặt cược</td>
 
-broke
+</tr>
 
-broken
+<tr>
 
-nghỉ
+<td>8</td>
 
-12
+<td>bid</td>
 
-bring
+<td>bid</td>
 
-brought
+<td>bid</td>
 
-brought
+<td>thầu</td>
 
-mang lại
+</tr>
 
-13
+<tr>
 
-broadcast
+<td>9</td>
 
-broadcast
+<td>bite</td>
 
-broadcast
+<td>bit</td>
 
-phát sóng
+<td>bitten</td>
 
-14
+<td>cắn</td>
 
-build
+</tr>
 
-built
+<tr>
 
-built
+<td>10</td>
 
-xây dựng
+<td>blow</td>
 
-15
+<td>blew</td>
 
-burn
+<td>blown</td>
 
-burned/burnt
+<td>đòn</td>
 
-burned/burnt
+</tr>
 
-ghi
+<tr>
 
-16
+<td>11</td>
 
-buy
+<td>break</td>
 
-bought
+<td>broke</td>
 
-bought
+<td>broken</td>
 
-mua
+<td>nghỉ</td>
 
-17
+</tr>
 
-catch
+<tr>
 
-caught
+<td>12</td>
 
-caught
+<td>bring</td>
 
-bắt
+<td>brought</td>
 
-18
+<td>brought</td>
 
-choose
+<td>mang lại</td>
 
-chose
+</tr>
 
-chosen
+<tr>
 
-chọn
+<td>13</td>
 
-19
+<td>broadcast</td>
 
-come
+<td>broadcast</td>
 
-came
+<td>broadcast</td>
 
-come
+<td>phát sóng</td>
 
-đến
+</tr>
 
-20
+<tr>
 
-cost
+<td>14</td>
 
-cost
+<td>build</td>
 
-cost
+<td>built</td>
 
-chi phí
+<td>built</td>
 
-21
+<td>xây dựng</td>
 
-cut
+</tr>
 
-cut
+<tr>
 
-cut
+<td>15</td>
 
-cắt
+<td>burn</td>
 
-22
+<td>burned/burnt</td>
 
-dig
+<td>burned/burnt</td>
 
-dug
+<td>ghi</td>
 
-dug
+</tr>
 
-đào
+<tr>
 
-23
+<td>16</td>
 
-do
+<td>buy</td>
 
-did
+<td>bought</td>
 
-done
+<td>bought</td>
 
-làm
+<td>mua</td>
 
-24
+</tr>
 
-draw
+<tr>
 
-drew
+<td>17</td>
 
-drawn
+<td>catch</td>
 
-vẽ
+<td>caught</td>
 
-25
+<td>caught</td>
 
-dream
+<td>bắt</td>
 
-dreamed/dreamt
+</tr>
 
-dreamed/dreamt
+<tr>
 
-mơ
+<td>18</td>
 
-26
+<td>choose</td>
 
-drive
+<td>chose</td>
 
-drove
+<td>chosen</td>
 
-driven
+<td>chọn</td>
 
-ổ đĩa
+</tr>
 
-27
+<tr>
 
-drink
+<td>19</td>
 
-drank
+<td>come</td>
 
-drunk
+<td>came</td>
 
-uống
+<td>come</td>
 
-28
+<td>đến</td>
 
-eat
+</tr>
 
-ate
+<tr>
 
-eaten
+<td>20</td>
 
-ăn
+<td>cost</td>
 
-29
+<td>cost</td>
 
-fall
+<td>cost</td>
 
-fell
+<td>chi phí</td>
 
-fallen
+</tr>
 
-giảm
+<tr>
 
-30
+<td>21</td>
 
-feel
+<td>cut</td>
 
-felt
+<td>cut</td>
 
-felt
+<td>cut</td>
 
-cảm thấy
+<td>cắt</td>
 
-31
+</tr>
 
-fight
+<tr>
 
-fought
+<td>22</td>
 
-fought
+<td>dig</td>
 
-cuộc chiến
+<td>dug</td>
 
-32
+<td>dug</td>
 
-find
+<td>đào</td>
 
-found
+</tr>
 
-found
+<tr>
 
-tìm
+<td>23</td>
 
-33
+<td>do</td>
 
-fly
+<td>did</td>
 
-flew
+<td>done</td>
 
-flown
+<td>làm</td>
 
-bay
+</tr>
 
-34
+<tr>
 
-forget
+<td>24</td>
 
-forgot
+<td>draw</td>
 
-forgotten
+<td>drew</td>
 
-quên
+<td>drawn</td>
 
-35
+<td>vẽ</td>
 
-forgive
+</tr>
 
-forgave
+<tr>
 
-forgiven
+<td>25</td>
 
-tha thứ
+<td>dream</td>
 
-36
+<td>dreamed/dreamt</td>
 
-freeze
+<td>dreamed/dreamt</td>
 
-froze
+<td>mơ</td>
 
-frozen
+</tr>
 
-đóng băng
+<tr>
 
-37
+<td>26</td>
 
-get
+<td>drive</td>
 
-got
+<td>drove</td>
 
-got
+<td>driven</td>
 
-có được
+<td>ổ đĩa</td>
 
-38
+</tr>
 
-give
+<tr>
 
-gave
+<td>27</td>
 
-given
+<td>drink</td>
 
-cung cấp cho
+<td>drank</td>
 
-39
+<td>drunk</td>
 
-go
+<td>uống</td>
 
-went
+</tr>
 
-gone
+<tr>
 
-đi
+<td>28</td>
 
-40
+<td>eat</td>
 
-grow
+<td>ate</td>
 
-grew
+<td>eaten</td>
 
-grown
+<td>ăn</td>
 
-phát triển
+</tr>
 
-41
+<tr>
 
-hang
+<td>29</td>
 
-hung
+<td>fall</td>
 
-hung
+<td>fell</td>
 
-treo
+<td>fallen</td>
 
-42
+<td>giảm</td>
 
-have
+</tr>
 
-had
+<tr>
 
-had
+<td>30</td>
 
-có
+<td>feel</td>
 
-43
+<td>felt</td>
 
-hear
+<td>felt</td>
 
-heard
+<td>cảm thấy</td>
 
-heard
+</tr>
 
-nghe
+<tr>
 
-44
+<td>31</td>
 
-hide
+<td>fight</td>
 
-hid
+<td>fought</td>
 
-hidden
+<td>fought</td>
 
-ẩn
+<td>cuộc chiến</td>
 
-45
+</tr>
 
-hit
+<tr>
 
-hit
+<td>32</td>
 
-hit
+<td>find</td>
 
-nhấn
+<td>found</td>
 
-46
+<td>found</td>
 
-hold
+<td>tìm</td>
 
-held
+</tr>
 
-held
+<tr>
 
-tổ chức
+<td>33</td>
 
-47
+<td>fly</td>
 
-hurt
+<td>flew</td>
 
-hurt
+<td>flown</td>
 
-hurt
+<td>bay</td>
 
-tổn thương
+</tr>
 
-48
+<tr>
 
-keep
+<td>34</td>
 
-kept
+<td>forget</td>
 
-kept
+<td>forgot</td>
 
-giữ
+<td>forgotten</td>
 
-49
+<td>quên</td>
 
-know
+</tr>
 
-knew
+<tr>
 
-known
+<td>35</td>
 
-biết
+<td>forgive</td>
 
-50
+<td>forgave</td>
 
-lay
+<td>forgiven</td>
 
-laid
+<td>tha thứ</td>
 
-laid
+</tr>
 
-đặt
+<tr>
 
-51
+<td>36</td>
 
-lead
+<td>freeze</td>
 
-led
+<td>froze</td>
 
-led
+<td>frozen</td>
 
-dẫn
+<td>đóng băng</td>
 
-52
+</tr>
 
-learn
+<tr>
 
-learned/learnt
+<td>37</td>
 
-learned/learnt
+<td>get</td>
 
-học
+<td>got</td>
 
-53
+<td>got</td>
 
-leave
+<td>có được</td>
 
-left
+</tr>
 
-left
+<tr>
 
-lại
+<td>38</td>
 
-54
+<td>give</td>
 
-lend
+<td>gave</td>
 
-lent
+<td>given</td>
 
-lent
+<td>cung cấp cho</td>
 
-cho vay
+</tr>
 
-55
+<tr>
 
-let
+<td>39</td>
 
-let
+<td>go</td>
 
-let
+<td>went</td>
 
-cho phép
+<td>gone</td>
 
-56
+<td>đi</td>
 
-lie
+</tr>
 
-lay
+<tr>
 
-lain
+<td>40</td>
 
-lời nói dối
+<td>grow</td>
 
-57
+<td>grew</td>
 
-lose
+<td>grown</td>
 
-lost
+<td>phát triển</td>
 
-lost
+</tr>
 
-mất
+<tr>
 
-58
+<td>41</td>
 
-make
+<td>hang</td>
 
-made
+<td>hung</td>
 
-made
+<td>hung</td>
 
-làm
+<td>treo</td>
 
-59
+</tr>
 
-mean
+<tr>
 
-meant
+<td>42</td>
 
-meant
+<td>have</td>
 
-có nghĩa là
+<td>had</td>
 
-60
+<td>had</td>
 
-meet
+<td>có</td>
 
-met
+</tr>
 
-met
+<tr>
 
-đáp ứng
+<td>43</td>
 
-61
+<td>hear</td>
 
-pay
+<td>heard</td>
 
-paid
+<td>heard</td>
 
-paid
+<td>nghe</td>
 
-trả
+</tr>
 
-62
+<tr>
 
-put
+<td>44</td>
 
-put
+<td>hide</td>
 
-put
+<td>hid</td>
 
-đặt
+<td>hidden</td>
 
-63
+<td>ẩn</td>
 
-read
+</tr>
 
-read
+<tr>
 
-read
+<td>45</td>
 
-đọc
+<td>hit</td>
 
-64
+<td>hit</td>
 
-ride
+<td>hit</td>
 
-rode
+<td>nhấn</td>
 
-ridden
+</tr>
 
-đi xe
+<tr>
 
-65
+<td>46</td>
 
-ring
+<td>hold</td>
 
-rang
+<td>held</td>
 
-rung
+<td>held</td>
 
-vòng
+<td>tổ chức</td>
 
-66
+</tr>
 
-rise
+<tr>
 
-rose
+<td>47</td>
 
-risen
+<td>hurt</td>
 
-tăng
+<td>hurt</td>
 
-67
+<td>hurt</td>
 
-run
+<td>tổn thương</td>
 
-ran
+</tr>
 
-run
+<tr>
 
-chạy
+<td>48</td>
 
-68
+<td>keep</td>
 
-say
+<td>kept</td>
 
-said
+<td>kept</td>
 
-said
+<td>giữ</td>
 
-nói
+</tr>
 
-69
+<tr>
 
-see
+<td>49</td>
 
-saw
+<td>know</td>
 
-seen
+<td>knew</td>
 
-thấy
+<td>known</td>
 
-70
+<td>biết</td>
 
-sell
+</tr>
 
-sold
+<tr>
 
-sold
+<td>50</td>
 
-bán
+<td>lay</td>
 
-71
+<td>laid</td>
 
-send
+<td>laid</td>
 
-sent
+<td>đặt</td>
 
-sent
+</tr>
 
-gửi
+<tr>
 
-72
+<td>51</td>
 
-show
+<td>lead</td>
 
-showed
+<td>led</td>
 
-showed/shown
+<td>led</td>
 
-chương trình
+<td>dẫn</td>
 
-73
+</tr>
 
-shut
+<tr>
 
-shut
+<td>52</td>
 
-shut
+<td>learn</td>
 
-đóng
+<td>learned/learnt</td>
 
-74
+<td>learned/learnt</td>
 
-sing
+<td>học</td>
 
-sang
+</tr>
 
-sung
+<tr>
 
-hát
+<td>53</td>
 
-75
+<td>leave</td>
 
-sit
+<td>left</td>
 
-sat
+<td>left</td>
 
-sat
+<td>lại</td>
 
-ngồi
+</tr>
 
-76
+<tr>
 
-sleep
+<td>54</td>
 
-slept
+<td>lend</td>
 
-slept
+<td>lent</td>
 
-ngủ
+<td>lent</td>
 
-77
+<td>cho vay</td>
 
-speak
+</tr>
 
-spoke
+<tr>
 
-spoken
+<td>55</td>
 
-nói
+<td>let</td>
 
-78
+<td>let</td>
 
-spend
+<td>let</td>
 
-spent
+<td>cho phép</td>
 
-spent
+</tr>
 
-chi tiêu
+<tr>
 
-79
+<td>56</td>
 
-stand
+<td>lie</td>
 
-stood
+<td>lay</td>
 
-stood
+<td>lain</td>
 
-đứng
+<td>lời nói dối</td>
 
-80
+</tr>
 
-swim
+<tr>
 
-swam
+<td>57</td>
 
-swum
+<td>lose</td>
 
-bơi
+<td>lost</td>
 
-81
+<td>lost</td>
 
-take
+<td>mất</td>
 
-took
+</tr>
 
-taken
+<tr>
 
-có
+<td>58</td>
 
-82
+<td>make</td>
 
-teach
+<td>made</td>
 
-taught
+<td>made</td>
 
-taught
+<td>làm</td>
 
-dạy
+</tr>
 
-83
+<tr>
 
-tear
+<td>59</td>
 
-tore
+<td>mean</td>
 
-torn
+<td>meant</td>
 
-xé
+<td>meant</td>
 
-84
+<td>có nghĩa là</td>
 
-tell
+</tr>
 
-told
+<tr>
 
-told
+<td>60</td>
 
-nói
+<td>meet</td>
 
-85
+<td>met</td>
 
-think
+<td>met</td>
 
-thought
+<td>đáp ứng</td>
 
-thought
+</tr>
 
-nghĩ
+<tr>
 
-86
+<td>61</td>
 
-throw
+<td>pay</td>
 
-threw
+<td>paid</td>
 
-thrown
+<td>paid</td>
 
-ném
+<td>trả</td>
 
-87
+</tr>
 
-understand
+<tr>
 
-understood
+<td>62</td>
 
-understood
+<td>put</td>
 
-hiểu
+<td>put</td>
 
-88
+<td>put</td>
 
-wake
+<td>đặt</td>
 
-woke
+</tr>
 
-woken
+<tr>
 
-thức
+<td>63</td>
 
-89
+<td>read</td>
 
-wear
+<td>read</td>
 
-wore
+<td>read</td>
 
-worn
+<td>đọc</td>
 
-mặc
+</tr>
 
-90
+<tr>
 
-win
+<td>64</td>
 
-won
+<td>ride</td>
 
-won
+<td>rode</td>
 
-giành chiến thắng
+<td>ridden</td>
 
-91
+<td>đi xe</td>
 
-write
+</tr>
 
-wrote
+<tr>
 
-written
+<td>65</td>
 
-viết
+<td>ring</td>
+
+<td>rang</td>
+
+<td>rung</td>
+
+<td>vòng</td>
+
+</tr>
+
+<tr>
+
+<td>66</td>
+
+<td>rise</td>
+
+<td>rose</td>
+
+<td>risen</td>
+
+<td>tăng</td>
+
+</tr>
+
+<tr>
+
+<td>67</td>
+
+<td>run</td>
+
+<td>ran</td>
+
+<td>run</td>
+
+<td>chạy</td>
+
+</tr>
+
+<tr>
+
+<td>68</td>
+
+<td>say</td>
+
+<td>said</td>
+
+<td>said</td>
+
+<td>nói</td>
+
+</tr>
+
+<tr>
+
+<td>69</td>
+
+<td>see</td>
+
+<td>saw</td>
+
+<td>seen</td>
+
+<td>thấy</td>
+
+</tr>
+
+<tr>
+
+<td>70</td>
+
+<td>sell</td>
+
+<td>sold</td>
+
+<td>sold</td>
+
+<td>bán</td>
+
+</tr>
+
+<tr>
+
+<td>71</td>
+
+<td>send</td>
+
+<td>sent</td>
+
+<td>sent</td>
+
+<td>gửi</td>
+
+</tr>
+
+<tr>
+
+<td>72</td>
+
+<td>show</td>
+
+<td>showed</td>
+
+<td>showed/shown</td>
+
+<td>chương trình</td>
+
+</tr>
+
+<tr>
+
+<td>73</td>
+
+<td>shut</td>
+
+<td>shut</td>
+
+<td>shut</td>
+
+<td>đóng</td>
+
+</tr>
+
+<tr>
+
+<td>74</td>
+
+<td>sing</td>
+
+<td>sang</td>
+
+<td>sung</td>
+
+<td>hát</td>
+
+</tr>
+
+<tr>
+
+<td>75</td>
+
+<td>sit</td>
+
+<td>sat</td>
+
+<td>sat</td>
+
+<td>ngồi</td>
+
+</tr>
+
+<tr>
+
+<td>76</td>
+
+<td>sleep</td>
+
+<td>slept</td>
+
+<td>slept</td>
+
+<td>ngủ</td>
+
+</tr>
+
+<tr>
+
+<td>77</td>
+
+<td>speak</td>
+
+<td>spoke</td>
+
+<td>spoken</td>
+
+<td>nói</td>
+
+</tr>
+
+<tr>
+
+<td>78</td>
+
+<td>spend</td>
+
+<td>spent</td>
+
+<td>spent</td>
+
+<td>chi tiêu</td>
+
+</tr>
+
+<tr>
+
+<td>79</td>
+
+<td>stand</td>
+
+<td>stood</td>
+
+<td>stood</td>
+
+<td>đứng</td>
+
+</tr>
+
+<tr>
+
+<td>80</td>
+
+<td>swim</td>
+
+<td>swam</td>
+
+<td>swum</td>
+
+<td>bơi</td>
+
+</tr>
+
+<tr>
+
+<td>81</td>
+
+<td>take</td>
+
+<td>took</td>
+
+<td>taken</td>
+
+<td>có</td>
+
+</tr>
+
+<tr>
+
+<td>82</td>
+
+<td>teach</td>
+
+<td>taught</td>
+
+<td>taught</td>
+
+<td>dạy</td>
+
+</tr>
+
+<tr>
+
+<td>83</td>
+
+<td>tear</td>
+
+<td>tore</td>
+
+<td>torn</td>
+
+<td>xé</td>
+
+</tr>
+
+<tr>
+
+<td>84</td>
+
+<td>tell</td>
+
+<td>told</td>
+
+<td>told</td>
+
+<td>nói</td>
+
+</tr>
+
+<tr>
+
+<td>85</td>
+
+<td>think</td>
+
+<td>thought</td>
+
+<td>thought</td>
+
+<td>nghĩ</td>
+
+</tr>
+
+<tr>
+
+<td>86</td>
+
+<td>throw</td>
+
+<td>threw</td>
+
+<td>thrown</td>
+
+<td>ném</td>
+
+</tr>
+
+<tr>
+
+<td>87</td>
+
+<td>understand</td>
+
+<td>understood</td>
+
+<td>understood</td>
+
+<td>hiểu</td>
+
+</tr>
+
+<tr>
+
+<td>88</td>
+
+<td>wake</td>
+
+<td>woke</td>
+
+<td>woken</td>
+
+<td>thức</td>
+
+</tr>
+
+<tr>
+
+<td>89</td>
+
+<td>wear</td>
+
+<td>wore</td>
+
+<td>worn</td>
+
+<td>mặc</td>
+
+</tr>
+
+<tr>
+
+<td>90</td>
+
+<td>win</td>
+
+<td>won</td>
+
+<td>won</td>
+
+<td>giành chiến thắng</td>
+
+</tr>
+
+<tr>
+
+<td>91</td>
+
+<td>write</td>
+
+<td>wrote</td>
+
+<td>written</td>
+
+<td>viết</td>
+
+</tr>
+
+</tbody>
+
+</table>
