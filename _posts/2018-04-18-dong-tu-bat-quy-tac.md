@@ -6,8 +6,6 @@ author: 'Đèn Đỏ'
 image: ''
 description: Bảng danh sách 91 động từ bất quy tắc thường dùng nhất và thường gặp nhất
 ---
-
-
 | STT |Nguyên mẫu|Quá khứ đơn|Quá khứ phân từ|Ý nghĩa thường gặp nhất| 
 | -------------|-------------| -----| -----| -----| 
 | 1 | awake | awoke | awoken | tỉnh táo |
@@ -100,4 +98,4 @@ description: Bảng danh sách 91 động từ bất quy tắc thường dùng n
 | 88 | wake | woke | woken | thức |
 | 89 | wear | wore | worn | mặc |
 | 90 | win | won | won | giành chiến thắng |
-91 | write | wrote | written | viết
+| 91 | write | wrote | written | viết |
