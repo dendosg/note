@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'React'
+title: 'Install React Native Ubuntu'
 description: Install React Native Ubuntu
 ---
 
