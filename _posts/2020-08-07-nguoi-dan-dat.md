@@ -12,3 +12,5 @@ Những việc công bằng, hợp lý cần phải được thực hiện bằn
 Chúng ta luôn luôn nỗ lực hết mình, nhưng phải tạo ra được kết quả cụ thể. Kết quả mà không có thì mọi nỗ lực bằng 0.
 
 //Những ngày làm việc cuối năm, đổi cái avatar chụp bên bờ vịnh Manhattan, sống chầm chậm và nghĩ suy đôi điều, để sang năm mới bứt phá quyết liệt hơn.
+
+https://www.facebook.com/photo.php?fbid=10217887581926502&set=a.1587662776783&type=3
